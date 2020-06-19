@@ -1,0 +1,10 @@
+.scrollspySite{
+    position: relative;
+    overflow: auto;
+    height: 350px;
+}
+
+.footer-page {
+        font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: small;
+}
